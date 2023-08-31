@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#Tarjeta{
+    height: 150px;
+    width: 300px;
+    background-color: #303030;
+    padding:28px;
+}
+
+h1{
+    width: 156px;
+    height: 40px;
+    font-size: 34px
+}
+h2{
+    width: 156px;
+    height: 24px;
+    font-size: 20px;
+}
+.numero{
+    background-color: #27ae60;
+}
+.texto{
+    size: 12px;
+}
